@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<odoo>
+    <menuitem id="game_dev_root" name="Game Dev">
+        <menuitem id="development_menu" name="Development">
+            <menuitem id="game_menu_action" action="game_action"/>
+        </menuitem>
+        <menuitem id="settings_menu" name="Settings">
+            <menuitem id="genre_menu_action" action="action_genre"/>
+        </menuitem>
+    </menuitem>
+</odoo>

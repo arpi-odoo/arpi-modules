@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="action_genre" model="ir.actions.act_window">
+        <field name="name">Genres</field>
+        <field name="res_model">game_dev.genre</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+</odoo>

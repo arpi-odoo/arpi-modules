@@ -1,0 +1,13 @@
+id,name
+game_dev.genre_action,Action
+game_dev.genre_fps,FPS
+game_dev.genre_mmorpg,MMORPG
+game_dev.genre_rpg,RPG
+game_dev.genre_simulation,Simulation
+game_dev.genre_strategy,Strategy
+game_dev.genre_horror,Horror
+game_dev.genre_casual,Casual
+game_dev.genre_puzzle,Puzzle
+game_dev.genre_platform,Platform
+game_dev.genre_racing,Racing
+game_dev.genre_sandbox,Sandbox

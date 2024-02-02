@@ -1,0 +1,5 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+access_game_dev_game_user,access_game_dev_game_user,model_game_dev_game,base.group_user,1,0,0,0
+access_game_dev_game_admin,access_game_dev_game_admin,model_game_dev_game,base.group_system,1,1,1,1
+access_game_dev_genre_user,access_game_dev_genre_user,model_game_dev_genre,base.group_user,1,0,0,0
+access_game_dev_genre_admin,access_game_dev_genre_admin,model_game_dev_genre,base.group_system,1,1,1,1
